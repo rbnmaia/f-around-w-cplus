@@ -1,3 +1,8 @@
+//*********************************************
+// Simple char-printer
+// Review of Iteration & Conditional Structures
+//*********************************************
+
 #include <iostream>
 using namespace std;
 
